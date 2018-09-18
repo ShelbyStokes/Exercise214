@@ -10,7 +10,7 @@ using CarInsurance.Models;
 
 namespace CarInsurance.Controllers
 {
-    public class Admin : Controller
+    public class AdminController : Controller
     {
         private InsuranceEntities db = new InsuranceEntities();
 
